@@ -22,5 +22,5 @@ json data over HTTP, as again I ran out of time.
 Lastly, formatting of report that is output to console requires tidying up, but again I simply ran out of time
 and wanted to focus on outputting the data correctly.
 
-Thank You
+Thank You,
 Ian
